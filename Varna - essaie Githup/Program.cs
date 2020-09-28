@@ -7,6 +7,7 @@ namespace Varna___essaie_Githup
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadKey(); 
         }
     }
 }
